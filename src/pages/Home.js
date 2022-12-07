@@ -1,11 +1,15 @@
 import React from 'react';
 import "../styles/Home.css";
+import proPic from "../assets/propic.png";
 
 function Home() {
     return (
         <div className='home'>
             <div className='about'>
-                <h2>About Me</h2>
+                <img src={proPic}></img>
+                <h2>
+                    Ned Stays Fit
+                </h2>
                 <div className='description'>
                     <p> I am in my early 60s and I have been exercising in one form or another since I was 11 or 12 years old. My
 dad, a former college athlete and a really smart guy in general, instilled in me the concept that a strong

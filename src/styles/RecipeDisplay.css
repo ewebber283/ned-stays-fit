@@ -8,17 +8,17 @@
   }
   
   .recipe h1 {
-    color: #3e497a;
+    color: red;
     font-size: 35px;
   }
   
   
   .recipe p {
     font-size: 25px;
-    color: #3e497a;
+    color: red;
   }
   
   .recipe svg {
     font-size: 60px;
-    color: #3e497a;
+    color: red;
   }
