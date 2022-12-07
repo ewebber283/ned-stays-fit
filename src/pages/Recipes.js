@@ -10,7 +10,7 @@ function Recipes() {
             <h1>Healthy Recipes</h1>
             <div className='recipeList'>
                 {RecipeList.map((recipe, index) => {
-                    return <RecipeItem id={index} name={recipe.name}/>
+                    return <RecipeItem id={index} name={recipe.name} image={recipe.image}/>
                 })}
             </div>
         </div>

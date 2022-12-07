@@ -23,8 +23,6 @@ function Nav() {
         </div>
         <div className='links'>
             <Link to='/'>Home</Link>
-            <Link to='/stayingfit'>Why Stay Fit</Link>
-            <Link to='/tips'>Fitness Tips</Link>
             <Link to='/recipes'>Recipes</Link>
             <Link to='/faqs'>FAQs</Link>
         </div>
