@@ -25,11 +25,11 @@
   }
   
   .about .description {
-    width: 40%;
-    font-size: 30px;
+    width: 100%;
+    font-size: 20px;
   }
   .description svg {
-    font-size: 60px;
+    font-size: 30px;
     margin: 5px;
     color: white;
   }
