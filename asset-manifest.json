@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ned-stays-fit/static/css/main.2394884a.css",
+    "main.js": "/ned-stays-fit/static/js/main.8ccc0b5d.js",
+    "static/js/787.5b4ef1e8.chunk.js": "/ned-stays-fit/static/js/787.5b4ef1e8.chunk.js",
+    "static/media/propic.png": "/ned-stays-fit/static/media/propic.91f28ae3a35f17488c13.png",
+    "static/media/skirtsteak.png": "/ned-stays-fit/static/media/skirtsteak.45d1390c2c328cf501a6.png",
+    "static/media/turkey.png": "/ned-stays-fit/static/media/turkey.182527993d4309ec9219.png",
+    "static/media/beans.png": "/ned-stays-fit/static/media/beans.e524294b0121162bab19.png",
+    "index.html": "/ned-stays-fit/index.html",
+    "main.2394884a.css.map": "/ned-stays-fit/static/css/main.2394884a.css.map",
+    "main.8ccc0b5d.js.map": "/ned-stays-fit/static/js/main.8ccc0b5d.js.map",
+    "787.5b4ef1e8.chunk.js.map": "/ned-stays-fit/static/js/787.5b4ef1e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2394884a.css",
+    "static/js/main.8ccc0b5d.js"
+  ]
+}
