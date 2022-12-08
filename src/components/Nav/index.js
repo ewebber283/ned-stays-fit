@@ -22,7 +22,7 @@ function Nav() {
             </button>
         </div>
         <div className='links'>
-            <Link to='/'>Home</Link>
+            <Link to='/ned-stays-fit'>Home</Link>
             <Link to='/recipes'>Recipes</Link>
             <Link to='/faqs'>FAQs</Link>
         </div>
