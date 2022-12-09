@@ -11,16 +11,26 @@ function Home() {
                     Ned Stays Fit
                 </h2>
                 <div className='description'>
-                    <p> I am in my early 60s and I have been exercising in one form or another since I was 11 or 12 years old. My
-dad, a former college athlete and a really smart guy in general, instilled in me the concept that a strong
-mind needs a healthy body to support it.
-In addition to my dad, I was influenced along the way by Jack LaLanne and many other older athletes. I
-was always inspired by men and woman who seemed to age with strength. traing
-I was able to translate my passion for fitness into a nearly 40-year career as a physical therapist and
-personal trainer. Although I am retired, I am still very dedicated to staying fit and aging gracefully.
-I love to stay active and enjoy sailing, paddle-boarding, golfing and traveling in addition to cooking and
-being an avid reader and crossword puzzler. But, above all, I love spending time with my family and
-friends!</p>
+                    <p>
+                        <div>
+                        I am in my early 60s and I have been exercising in one form or another since I was 11 or 12 years old. My
+                        dad, a former Columbia University athlete and a pretty smart guy in general, instilled in me the concept
+                        that a strong mind needs a healthy body to support it. My mom, eternally youthful and energetic, taught
+                        to live life to the fullest! 
+                        </div>
+                        <div>In addition to my parents, I was influenced along the way by Jack LaLanne and many other older
+                        athletes. I was always inspired by men and woman who seemed to age with strength.
+                        </div>
+                        <div>
+                        I was able to translate my passion for fitness into a nearly 40-year career as a physical therapist and
+                        personal trainer. Although I am retired, I am still very dedicated to staying fit and aging gracefully.
+                        </div>
+                        <div>
+                        I love to stay active, and I exercise regularly. I enjoy sailing, paddle-boarding, yoga, golfing and traveling
+                        in addition to cooking and being an avid reader and crossword puzzler. But, above all, I love spending
+                        time with my family and friends! 
+                        </div>
+                    </p>
                 </div> 
             </div>
             <div className='why'>
